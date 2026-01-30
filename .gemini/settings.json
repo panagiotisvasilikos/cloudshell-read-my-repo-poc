@@ -1,14 +1,8 @@
 {
-  "security": {
-    "auth": {
-      "selectedType": "compute-default-credentials"
-    }
-  },
   "tools": {
     "enableHooks": true
   },
   "hooks": {
-    "enabled": true,
     "SessionStart": [
       {
         "matcher": "startup",
