@@ -1,7 +1,6 @@
 {
   "tools": { "enableHooks": true },
   "hooks": {
-    "enabled": true,
     "SessionStart": [
       {
         "matcher": "startup",
